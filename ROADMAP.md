@@ -15,7 +15,7 @@ Legend: `[ ]` todo · `[~]` in progress · `[x]` done
 ## Phase 0 — Foundation
 *Goal: a repo you can open in Codespaces and run, with the seams stubbed.*
 
-- [ ] Codespaces devcontainer (Node LTS, Vite, TypeScript)
+- [x] Codespaces devcontainer (Node LTS, Vite, TypeScript)
 - [ ] Vite + TypeScript project scaffolded, runs with `npm run dev`
 - [ ] `ROADMAP.md` + `ARCHITECTURE.md` committed
 - [ ] GitHub Issues created from this backlog; Project board with phase columns
